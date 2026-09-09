@@ -1,16 +1,36 @@
-# Hi, I'm Imman Fatima! 👋
+# Hi there 👋, I'm Imman Fatima
 
-<!--
-**Imman-Fatima/Imman-Fatima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 BSCS Undergraduate | 🌐 Web Development Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌸 About Me
+
+🎓 Currently pursuing **BSCS**  
+🌐 Interested in **Web Development**  
+🐍 Learning **Python**  
+🗄️ Exploring **SQL & Databases**  
+💻 Building my programming skills  
+🚀 Always learning and improving
+
+## 🛠️ Skills & Technologies
+
+🐍 Python • 🗄️ SQL • 💻 C++ • 🌐 HTML • 🎨 CSS • ⚡ JavaScript
+
+## 🌱 Currently Learning
+
+🌐 Web Development  
+🐍 Python  
+🗄️ SQL & Databases
+
+## 🔗 Let's Connect
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/imman-fatima-b7387b40a">
+<a href="https://www.linkedin.com/in/imman-fatima-b7387b40a">
+<a href="https://www.linkedin.com/in/imman-fatima/">
+
+
+⭐ Thanks for visiting my profile!
