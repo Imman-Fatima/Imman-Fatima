@@ -16,12 +16,12 @@ Name:       Imman Fatima
 Role:       Computer Science Student
 Degree:     BS Computer Science (2024 – 2028)
 Institute:  KICSIT (Dr. A. Q. Khan Institute of Computer Sciences & Information Technology), Kahuta Campus
-Semester:   4th
+Semester:   5th
 Interests:  [Artificial Intelligence, Web Development, Databases]
 Status:     Open to internships, collaborations & learning opportunities ✨
 ```
 
-- 🎓 Currently**pursuing** **BSCS** at **Institute of Space Technology ** `2024 – 2028`
+- 🎓 Currently **pursuing** **BSCS** at **Institute of Space Technology ** `2024 – 2028`
 - Building a path toward **Artificial Intelligence** — Python, NumPy, Pandas, ML
 - Learning **Web Development** — HTML, CSS, JavaScript, React, Node.js
 - Comfortable working with **databases** — MongoDB, SQL, Flask/Django integration
@@ -54,14 +54,14 @@ Status:     Open to internships, collaborations & learning opportunities ✨
 
 ### 📊 GitHub Stats
 
-[![Imman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Imman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imman-Fatima&show_icons=true&theme=radical&count_private=true&hide_border=true)](https://github.com/Imman-Fatima)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imman-Fatima&layout=compact&theme=radical&hide_border=true)](https://github.com/Imman-Fatima)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Imman-Fatima&theme=radical&hide_border=true)](https://github.com/Imman-Fatima)
 
-### 📈 Contribution Graph
+### 🐍 Contribution Snake
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
+![Contribution Snake](https://raw.githubusercontent.com/Imman-Fatima/Imman-Fatima/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -76,7 +76,7 @@ Status:     Open to internships, collaborations & learning opportunities ✨
 #### 🔷 ADBMS — NoSQL & Cloud Database Web App
 `MongoDB` · `Firebase` · `Flask/Django` — Group project building a web-integrated application on top of NoSQL/cloud databases, covering data modeling, cloud storage, and backend integration.
 
-#### 🔷 Frauld shield
+#### 🔷 Library Management System
 `Flask` · `MongoDB` · `HTML/CSS` — A full library management system with a Flask backend and MongoDB database, handling book records, search, and library operations end-to-end.
 
 #### 🔷 Student Information System (NASM Assembly)
@@ -106,5 +106,5 @@ Status:     Open to internships, collaborations & learning opportunities ✨
 
 If you'd like to collaborate, discuss a project, or just say hi — feel free to reach out on [LinkedIn](https://www.linkedin.com/in/imman-fatima-b7387b40a) or drop me an [email](mailto:immanfatimasatti@gmail.com). Always happy to connect with fellow students and developers!
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=2EC4B6)
+![Profile views](https://komarev.com/ghpvc/?username=Imman-Fatima&style=flat-square&color=2EC4B6)
 
