@@ -67,4 +67,40 @@ status:     Open to internships, collaborations & learning opportunities ✨
 
 ### 🎓 Education
 
+🏫 **BS Computer Science** — KICSIT (Dr. A. Q. Khan Institute of Computer Sciences & Information Technology), Kahuta Campus `2024 – 2028`
 
+---
+
+### 🚀 Projects
+
+#### 🔷 ADBMS — NoSQL & Cloud Database Web App
+`MongoDB` · `Firebase` · `Flask/Django` — Group project building a web-integrated application on top of NoSQL/cloud databases, covering data modeling, cloud storage, and backend integration.
+
+#### 🔷 Library Management System
+`Flask` · `MongoDB` · `HTML/CSS` — A full library management system with a Flask backend and MongoDB database, handling book records, search, and library operations end-to-end.
+
+#### 🔷 Student Information System (NASM Assembly)
+`NASM x86 Assembly` · `DOSBox` — A menu-driven Student Information System built in 8086 Assembly across seven modules (admission, status, fee, attendance, results, health, record viewing), evolved from a full-featured build into a streamlined, array-based multi-student version.
+
+#### 🔷 Comparative Study of Processor Architectures
+`Computer Architecture` — A comparative research study of x86, ARM, MIPS, RISC-V, and SPARC architectures.
+
+> 📌 More projects on the way as coursework and personal builds get pushed here!
+
+---
+
+### 🎯 Goals
+
+- 🤖 Deepen my knowledge in **Artificial Intelligence**
+- 🌐 Get stronger in the web stack — **HTML, CSS, JS, React, Node.js**
+- 🗄️ Sharpen database & backend skills — **MongoDB, Flask, Django**
+- 🤝 Contribute to open-source and collaborate with other developers
+- 🎯 Land an internship in software development / AI
+
+---
+
+### ⭐ Let's Connect
+
+If you'd like to collaborate, discuss a project, or just say hi — feel free to reach out on [LinkedIn](https://www.linkedin.com/in/imman-fatima-b7387b40a) or drop me an [email](mailto:immanfatimasatti@gmail.com). Always happy to connect with fellow students and developers!
+
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=2EC4B6)
