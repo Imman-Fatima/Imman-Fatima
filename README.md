@@ -1,3 +1,4 @@
+
 # Hi there 👋, I'm Imman Fatima
 
 ### Computer Science Student | AI & Web Development Enthusiast
@@ -12,22 +13,22 @@
 ### 🧭 About Me
 
 ```
-name:       Imman Fatima
-role:       Computer Science Student
-degree:     BS Computer Science (2024 – 2028)
-institute:  KICSIT (Dr. A. Q. Khan Institute of Computer Sciences & Information Technology), Kahuta Campus
-semester:   4th
-interests:  [Artificial Intelligence, Web Development, Databases]
-status:     Open to internships, collaborations & learning opportunities ✨
+Name:       Imman Fatima
+Role:       Computer Science Student
+Degree:     BS Computer Science (2024 – 2028)
+Institute:  KICSIT (Dr. A. Q. Khan Institute of Computer Sciences & Information Technology), Kahuta Campus
+Semester:   4th
+Interests:  [Artificial Intelligence, Web Development, Databases]
+Status:     Open to internships, collaborations & learning opportunities ✨
 ```
 
-- 🎓 Currently in my **4th semester** of **BSCS** at **KICSIT, Kahuta Campus** `2024 – 2028`
-- 🤖 Building a path toward **Artificial Intelligence** — Python, NumPy, Pandas, ML
-- 🌐 Learning **Web Development** — HTML, CSS, JavaScript, React, Node.js
-- 🗄️ Comfortable working with **databases** — MongoDB, SQL, Flask/Django integration
-- 🌱 Always learning and improving my programming skills
-- 🎯 Aiming for an internship at companies like Systems Limited, Arbisoft, 10Pearls, Folio3, or Netsol
-- 📫 Reach me at **immanfatimasatti@gmail.com**
+- 🎓 Currently**pursuing** **BSCS** at **Institute of Space Technology ** `2024 – 2028`
+- Building a path toward **Artificial Intelligence** — Python, NumPy, Pandas, ML
+- Learning **Web Development** — HTML, CSS, JavaScript, React, Node.js
+- Comfortable working with **databases** — MongoDB, SQL, Flask/Django integration
+- Always learning and improving my programming skills
+- Aiming for an internship at companies like Systems Limited, Arbisoft, 10Pearls, Folio3, or Netsol
+- Reach me at **immanfatimasatti@gmail.com**
 - 🔗 More about me on my **[LinkedIn](https://www.linkedin.com/in/imman-fatima-b7387b40a)**
 
 ---
@@ -54,14 +55,14 @@ status:     Open to internships, collaborations & learning opportunities ✨
 
 ### 📊 GitHub Stats
 
-[![Imman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Imman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
 
 ### 📈 Contribution Graph
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
 
 ---
 
@@ -76,7 +77,7 @@ status:     Open to internships, collaborations & learning opportunities ✨
 #### 🔷 ADBMS — NoSQL & Cloud Database Web App
 `MongoDB` · `Firebase` · `Flask/Django` — Group project building a web-integrated application on top of NoSQL/cloud databases, covering data modeling, cloud storage, and backend integration.
 
-#### 🔷 Library Management System
+#### 🔷 Frauld shield
 `Flask` · `MongoDB` · `HTML/CSS` — A full library management system with a Flask backend and MongoDB database, handling book records, search, and library operations end-to-end.
 
 #### 🔷 Student Information System (NASM Assembly)
@@ -84,6 +85,9 @@ status:     Open to internships, collaborations & learning opportunities ✨
 
 #### 🔷 Comparative Study of Processor Architectures
 `Computer Architecture` — A comparative research study of x86, ARM, MIPS, RISC-V, and SPARC architectures.
+
+#### 🔷 Airline Reservation System
+`HTML5` · `CSS3` · `JavaScript` — A web-based airline reservation system handling flight search, seat booking, and reservation management through an interactive front-end.
 
 > 📌 More projects on the way as coursework and personal builds get pushed here!
 
@@ -104,3 +108,4 @@ status:     Open to internships, collaborations & learning opportunities ✨
 If you'd like to collaborate, discuss a project, or just say hi — feel free to reach out on [LinkedIn](https://www.linkedin.com/in/imman-fatima-b7387b40a) or drop me an [email](mailto:immanfatimasatti@gmail.com). Always happy to connect with fellow students and developers!
 
 ![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=2EC4B6)
+
