@@ -1,4 +1,3 @@
-
 # Hi there 👋, I'm Imman Fatima
 
 ### Computer Science Student | AI & Web Development Enthusiast
@@ -62,7 +61,9 @@ Status:     Open to internships, collaborations & learning opportunities ✨
 
 ### 📈 Contribution Graph
 
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
 
+---
 
 ### 🎓 Education
 
