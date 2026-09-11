@@ -62,9 +62,36 @@ Status:     Open to internships, collaborations & learning opportunities ✨
 
 ### 📈 Contribution Graph
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
+name: Generate Snake
 
----
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once a day
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 ### 🎓 Education
 
@@ -95,11 +122,11 @@ Status:     Open to internships, collaborations & learning opportunities ✨
 
 ### 🎯 Goals
 
-- 🤖 Deepen my knowledge in **Artificial Intelligence**
-- 🌐 Get stronger in the web stack — **HTML, CSS, JS, React, Node.js**
-- 🗄️ Sharpen database & backend skills — **MongoDB, Flask, Django**
-- 🤝 Contribute to open-source and collaborate with other developers
-- 🎯 Land an internship in software development / AI
+- Deepen my knowledge in **Artificial Intelligence**
+- Get stronger in the web stack — **HTML, CSS, JS, React, Node.js**
+- Sharpen database & backend skills — **MongoDB, Flask, Django**
+- Contribute to open-source and collaborate with other developers
+- Land an internship in software development / AI
 
 ---
 
